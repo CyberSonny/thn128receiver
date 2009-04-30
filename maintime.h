@@ -1,0 +1,1 @@
+extern u16 Counter10ms;    // Timer that is counting 10ms ticks
