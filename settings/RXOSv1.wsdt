@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>rx_OSv1/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>169</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>724</ColumnWidth1><ColumnWidth2>193</ColumnWidth2><ColumnWidth3>48</ColumnWidth3></Build>
+      <Find-in-Files>
+        
+        
+        
+      <ColumnWidth0>350</ColumnWidth0><ColumnWidth1>50</ColumnWidth1><ColumnWidth2>601</ColumnWidth2></Find-in-Files>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12798-20831</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>rx_OSv1</ExpandedNode><ExpandedNode>rx_OSv1/OregonScentific decoder</ExpandedNode><ExpandedNode>rx_OSv1/USART</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29947-31767</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-2412-1954</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\a-erezeev\AVRProjects\RXOSv1\main.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>763</SelStart><SelEnd>763</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\a-erezeev\AVRProjects\RXOSv1\osv1_dec.c</Filename><XPos>0</XPos><YPos>374</YPos><SelStart>14350</SelStart><SelEnd>14350</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\a-erezeev\AVRProjects\RXOSv1\osv1_dec.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>299</SelStart><SelEnd>299</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\a-erezeev\AVRProjects\RXOSv1\maintime.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>393</SelStart><SelEnd>393</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\a-erezeev\AVRProjects\RXOSv1\io.c</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>1586</SelStart><SelEnd>1586</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\a-erezeev\AVRProjects\RXOSv1\io.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2</SelStart><SelEnd>2</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\a-erezeev\AVRProjects\RXOSv1\compiler.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>582</SelStart><SelEnd>582</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\a-erezeev\AVRProjects\RXOSv1\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>299</SelStart><SelEnd>299</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\a-erezeev\AVRProjects\RXOSv1\maintime.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>40</SelStart><SelEnd>40</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.0 Evaluation\avr\inc\iom16.h</Filename><XPos>0</XPos><YPos>428</YPos><SelStart>12365</SelStart><SelEnd>12365</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-012994f0><key>iaridepm.enu1</key></Toolbar-012994f0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>435</Bottom><Right>243</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>195313</sizeHorzCX><sizeHorzCY>295421</sizeHorzCY><sizeVertCX>239258</sizeVertCX><sizeVertCY>645495</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1026</Right><x>-2</x><y>-2</y><xscreen>1028</xscreen><yscreen>200</yscreen><sizeHorzCX>1003906</sizeHorzCX><sizeHorzCY>295421</sizeHorzCY><sizeVertCX>195313</sizeVertCX><sizeVertCY>295421</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
